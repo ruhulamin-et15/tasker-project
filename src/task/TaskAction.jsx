@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 export default function TaskAction({ onAddClick, onDeleteAllClick }) {
   return (
     <div className="mb-14 items-center justify-between sm:flex">
